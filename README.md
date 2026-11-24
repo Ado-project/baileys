@@ -15,11 +15,14 @@ A lightweight WhatsApp Web API wrapper basado en **Baileys** (WhiskeySockets) co
 ---
 
 ## Instalación
-bash npm i ado-baileys
-Copy codeCopy Code
+bash``` 
+npm i ado-baileys
+```
 o si usas git:
-bash npm i git+https://github.com/HTMLTAG_0_PLACEHOLDER/ado-baileys.git
-Copy codeCopy Code
+
+bash```
+ npm i git+https://github.com/SergioOficial/ado-baileys.git
+```
 ---
 
 ## Uso rápido
@@ -46,7 +49,7 @@ start();
 Copy codeCopy Code
 ---
 
-## Funciones / Helpers incluidas (compatibles estilo `natsu-dev01`)
+## Funciones / Helpers incluidas
 
 El proyecto re-exporta o incluye helpers típicos de Baileys/forks para acelerar el desarrollo:
 
@@ -114,4 +117,4 @@ Pull requests son bienvenidas.
 
 ## Licencia
 
-MIT (ajusta si usas otra).
+MIT.
