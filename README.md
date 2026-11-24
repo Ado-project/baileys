@@ -16,13 +16,13 @@ A lightweight WhatsApp Web API wrapper basado en **Baileys** (WhiskeySockets) co
 
 ## Instalación
 bash``` 
-npm i ado-baileys
-```
+    npm i ado-baileys
+    ```
 o si usas git:
 
 bash```
  npm i git+https://github.com/SergioOficial/ado-baileys.git
-```
+    ```
 ---
 
 ## Uso rápido
