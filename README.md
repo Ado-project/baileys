@@ -2,8 +2,7 @@
 
 A lightweight WhatsApp Web API wrapper basado en **Baileys** (WhiskeySockets) con utilities/helpers para bots.
 
-> Objetivo: reparar/estandarizar el paquete y ofrecer una API/README con funciones compatibles al estilo de forks como `natsu-dev01`.
-
+> Objetivo: reparar/estandarizar el paquete y ofrecer una API/README
 ---
 
 ## Requisitos
